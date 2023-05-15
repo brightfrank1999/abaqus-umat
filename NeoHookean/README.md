@@ -4,3 +4,6 @@
 ```
 abaqus job=SingleElemExt user=NeoHookean.for -interactive
 ```
+
+### Verification Results
+![image]
