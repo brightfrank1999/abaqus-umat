@@ -2,5 +2,5 @@
 
 ### Abaqus command
 ```
-abaqus job=Single user=NeoHookean.for -interactive
+abaqus job=SingleElemExt user=NeoHookean.for -interactive
 ```
