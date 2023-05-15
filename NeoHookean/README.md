@@ -1,4 +1,4 @@
-## Abaqus Umat for Neo-Hookean material
+## Abaqus UMAT for Neo-Hookean material
 
 ### Abaqus command
 ```
