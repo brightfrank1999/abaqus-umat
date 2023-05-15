@@ -1,4 +1,4 @@
 
 ```
-abaqus job= user= -interactive
+abaqus job=Single user=NeoHookean.for -interactive
 ```
