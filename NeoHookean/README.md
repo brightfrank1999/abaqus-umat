@@ -1,1 +1,4 @@
 
+'''
+abaqus job= user= -interactive
+'''
