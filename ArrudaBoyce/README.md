@@ -1,4 +1,4 @@
-## Abaqus UMAT for Neo-Hookean material
+## Abaqus UMAT for Arruda-Boyce material
 
 ### Abaqus command
 ```
