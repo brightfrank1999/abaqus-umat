@@ -2,7 +2,7 @@
 
 ### Abaqus command
 ```
-abaqus job=SingleElemExt user=NeoHookean.for -interactive
+abaqus job=SingleElemExt user=ArrudaBoyce.for -interactive
 ```
 
 ### Verification results
