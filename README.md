@@ -3,7 +3,7 @@
 ## Platform
 Abaqus 2021  
 Visual Studio Community 2019  
-Intel OneAPI 2023  
+Intel oneAPI 2023  
 
 
 ## Verification results
