@@ -7,4 +7,4 @@
 
 
 
-## Fortran 90 free style support
+## Fortran 90 free-format
