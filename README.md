@@ -7,7 +7,7 @@ Intel oneAPI 2023
 
 ## System Information
 <div align=center>
-<src img="https://github.com/brightfrank1999/abaqus-umat/blob/main/img/SystemInfo.jpg">
+<img src="https://github.com/brightfrank1999/abaqus-umat/blob/main/img/SystemInfo.jpg">
 </div>
   
 ## Fortran 90 free format
