@@ -6,4 +6,6 @@ abaqus job=SingleElemExt user=NeoHookean.for -interactive
 ```
 
 ### Verification results
+<div align=center>
 ![image](https://github.com/brightfrank1999/abaqus-umat/blob/main/NeoHookean/img/Verification.jpg)
+</div>
