@@ -7,5 +7,5 @@ abaqus job=SingleElemExt user=NeoHookean.for -interactive
 
 ### Verification results
 <div align=center>
-<src="https://github.com/brightfrank1999/abaqus-umat/blob/main/NeoHookean/img/Verification.jpg">
+<img src="https://github.com/brightfrank1999/abaqus-umat/blob/main/NeoHookean/img/Verification.jpg">
 </div>
