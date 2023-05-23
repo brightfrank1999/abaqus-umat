@@ -1,8 +1,8 @@
-## Abaqus UMAT for Arruda-Boyce material
+## Abaqus UMAT for Light Activated Shape Memory Polymer
 
 ### Abaqus command
 ```
-abaqus job=SingleElemExt user=ArrudaBoyce.for -interactive
+abaqus job=SingleElemExt user=umat_LASMP.for -interactive
 ```
 
 ### Verification results
