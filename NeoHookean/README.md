@@ -17,5 +17,5 @@ abaqus job=HollowCyliner user=NeoHookean.for -interactive
 
 #### Verification results
 <div align=center>
-<img src="https://github.com/brightfrank1999/abaqus-umat/blob/main/NeoHookean/imgs/HollowCyliner.tiff">
+<img src="https://github.com/brightfrank1999/abaqus-umat/blob/main/NeoHookean/imgs/HollowCyliner.png">
 </div>
