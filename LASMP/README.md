@@ -11,3 +11,4 @@ abaqus job=SingleElemExt user=umat_LASMP.for -interactive
 </div>
 
 ### References
+1. Modeling the mechanics of light activated shape memory polymers, JS Sodhi, IJ Rao, International Journal of Engineering Science 48 (11), 1576-1589
