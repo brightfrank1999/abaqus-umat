@@ -1,6 +1,6 @@
 ## Abaqus UMAT for Light Activated Shape Memory Polymer
 
-### Abaqus Single Element Verification
+### Single Element Verification
 ```
 abaqus job=SingleElemExt user=umat_LASMP.for -interactive
 ```
