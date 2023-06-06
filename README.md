@@ -11,7 +11,7 @@ Intel oneAPI 2023
 </div>
   
 ## Fortran 90 free format
-The UMAT subroutines are written in Fortran 90 free format.
+The UMAT subroutines are written in Fortran 90 free format. Hence, we have to change the environmental variables. In "C:\SIMULIA\EstProducts\2021\win_b64\SMA\site\win86_64.env", add '/free'.
 <div align=center>
 <img src="https://github.com/brightfrank1999/abaqus-umat/blob/main/imgs/win_env.jpg">
 </div>
