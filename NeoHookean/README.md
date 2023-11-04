@@ -2,7 +2,7 @@
 
 ### Single Element Verification
 ```
-abaqus job=SingleElemExt user=NeoHookean.for -interactive
+abaqus job=SingleElemExt user=NeoHookean_f90.for -interactive
 ```
 
 #### Verification results
