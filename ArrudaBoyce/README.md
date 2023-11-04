@@ -2,7 +2,7 @@
 
 ### Single Element Verificaiton
 ```
-abaqus job=SingleElemExt user=ArrudaBoyce.for -interactive
+abaqus job=SingleElemExt user=ArrudaBoyce_f77.for -interactive
 ```
 
 #### Verification results
