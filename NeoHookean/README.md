@@ -3,6 +3,7 @@
 ### Single Element Verification
 ```
 abaqus job=SingleElemExt user=NeoHookean_f90.for -interactive
+abaqus job=HollowCylinder user=NeoHookean_f90.for cpus=2 -interactive
 ```
 
 #### Verification results
