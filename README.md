@@ -16,4 +16,4 @@ Some UMAT subroutines are written in Fortran 90 free format. For these subroutin
 <img src="https://github.com/brightfrank1999/abaqus-umat/blob/main/imgs/win_env.jpg">
 </div>
 
-## STOP Fuction
+## STOP Function
