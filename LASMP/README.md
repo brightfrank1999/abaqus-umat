@@ -2,7 +2,7 @@
 
 ### Single Element Verification
 ```
-abaqus job=SimpleExtension user=umat_LASMP_f77.for -interactive
+abaqus job=SingleElemExt user=umat_LASMP_f77.for -interactive
 ```
 
 #### Verification results
