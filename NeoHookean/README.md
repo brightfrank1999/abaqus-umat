@@ -3,7 +3,6 @@
 ### Single Element Verification
 ```
 abaqus job=SingleElemExt user=NeoHookean_f90.for -interactive
-abaqus job=HollowCylinder user=NeoHookean_f90.for -interactive
 ```
 
 #### Verification results
@@ -13,7 +12,7 @@ abaqus job=HollowCylinder user=NeoHookean_f90.for -interactive
 
 ### Inflation of a Hollow Cylinder
 ```
-abaqus job=HollowCyliner user=NeoHookean.for -interactive
+abaqus job=HollowCyliner user=NeoHookean_f90.for -interactive
 ```
 
 #### Verification results
